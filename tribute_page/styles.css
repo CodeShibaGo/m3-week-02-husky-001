@@ -1,0 +1,24 @@
+img{
+   width:680px;
+   height:480px;
+   display: block;
+   margin: 0 auto;
+       
+ }
+ #Kelvin-Kiptum,#new-star,#image-caption,#life
+ {
+    text-align: center;
+ }
+ body{
+   margin:  0 900px 0 900px;
+   background-color: burlywood;
+   border: 10px solid #ffffff;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+   color: purple;
+ }
+ section h3{
+    text-align: center;
+ }
+ 
+ 
+ 
